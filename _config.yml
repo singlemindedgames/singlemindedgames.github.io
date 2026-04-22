@@ -1,3 +1,7 @@
-theme: jekyll-theme-minimal
-title: singelmindedgames webspace
-description: Bookmark this to keep an eye on my project updates!
+title: Single Minded Games
+description: We build focused, handcrafted games.
+baseurl: ""
+url: "https://singlemindedgames.github.io"
+
+markdown: kramdown
+theme: null
