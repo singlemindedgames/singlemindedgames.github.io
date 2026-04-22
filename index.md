@@ -5,7 +5,7 @@ title: Home
 
 ## About Me
 
-Single Minded Games is an independent game studio focused on creating tight, meaningful gameplay experiences.
+Single Minded Games is an independent, one-mind, game studio focused on creating tight, meaningful gameplay experiences.
 
 I believe in clarity over complexity — every mechanic exists for a reason.
 
