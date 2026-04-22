@@ -5,11 +5,11 @@ title: About
 
 ## Design Philosophy
 
-We build games with a single guiding principle:
+I build games with a single guiding principle:
 
 > If it doesn’t improve the experience, it doesn’t belong.
 
-Our focus is on:
+My focus is on:
 
 - Clean gameplay systems
 - Strong visual identity
